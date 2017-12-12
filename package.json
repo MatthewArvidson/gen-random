@@ -1,6 +1,6 @@
 {
   "name": "@MatthewArvidson/gen-random",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random Number Generator",
   "main": "index.js",
   "scripts": {
